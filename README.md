@@ -2,8 +2,12 @@
 
 ### PhD student at the University of California, Berkeley
  - Using machine learning for enabling high-complexity robot interaction in safety-critical environments
- - [Personal Webpage](https://kartik-nagpal.github.io/)
  - 📫 kartiknagpal [at] berkeley [dot] edu
+ - [Personal Webpage](https://kartik-nagpal.github.io/)
+
+Recent Papers:
+ - [DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories, RSS 2025](https://iconlab.negarmehr.com/DDAT/)
+ - [Leveraging Large Language Models for Effective and Explainable Multi-Agent Credit Assignment, AAMAS 2025](https://arxiv.org/abs/2502.16863)
 
 <!--
 **Kartik-Nagpal/kartik-nagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
