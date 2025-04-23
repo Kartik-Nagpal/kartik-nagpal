@@ -1,4 +1,9 @@
-## Hi there 👋
+## Howdy! 👋 I'm Kartik Nagpal
+
+### PhD student at the University of California, Berkeley
+ - Using machine learning for enabling high-complexity robot interaction in safety-critical environments
+ - [Personal Webpage](https://kartik-nagpal.github.io/)
+ - 📫 kartiknagpal [at] berkeley [dot] edu
 
 <!--
 **Kartik-Nagpal/kartik-nagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
